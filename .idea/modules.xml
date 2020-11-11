@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="driver-behavior-analytics-android-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/driver-behavior-analytics-android-master.iml" filepath="$PROJECT_DIR$/driver-behavior-analytics-android-master.iml" group="driver-behavior-analytics-android-master" />
+      <module fileurl="file://$PROJECT_DIR$/driver_behaviour-master.iml" filepath="$PROJECT_DIR$/driver_behaviour-master.iml" group="driver_behaviour-master" />
+      <module fileurl="file://$PROJECT_DIR$/app/driver_behaviour-master-app.iml" filepath="$PROJECT_DIR$/app/driver_behaviour-master-app.iml" group="driver_behaviour-master/app" />
+    </modules>
+  </component>
+</project>

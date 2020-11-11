@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "653207119276",
+    "firebase_url": "https://driver-behaviour-269516.firebaseio.com",
+    "project_id": "driver-behaviour-269516",
+    "storage_bucket": "driver-behaviour-269516.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653207119276:android:bf6a9c2501e5f9ab570609",
+        "android_client_info": {
+          "package_name": "com.example.uttam.driver_behaviour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653207119276-ru3t4sjpsqouqp9f7shdv8ujd6s9a0tr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXYZB17j3IbJsHYDHoHDlzm1h8i1VrZRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653207119276-ru3t4sjpsqouqp9f7shdv8ujd6s9a0tr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
