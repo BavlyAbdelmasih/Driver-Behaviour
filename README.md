@@ -8,3 +8,9 @@ We have implemented an algorithm to determine the score of the driver ranging fr
 ![alt text](https://github.com/bavly19/Driver-Behaviour/blob/main/images/Screenshot_20200227_222640_com.example.uttam.driver_behaviour.jpg?raw=true|height=50)
 ![alt text](https://github.com/bavly19/Driver-Behaviour/blob/main/images/Screenshot_20200227_222741_com.example.uttam.driver_behaviour.jpg?raw=true|height=50)
 
+# Libraries Used
+* Google maps sdk
+* Firebase
+* Motion sensors
+* Location API
+* Camerax
